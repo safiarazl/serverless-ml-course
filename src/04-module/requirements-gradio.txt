@@ -1,4 +1,5 @@
 hopsworks
 joblib
 scikit-learn
+gradio
 xgboost
