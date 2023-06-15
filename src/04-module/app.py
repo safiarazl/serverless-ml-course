@@ -43,4 +43,4 @@ demo = gr.Interface(
         ],
     outputs=gr.Image(type="pil"))
 
-demo.launch()
+demo.launch(share=True)
